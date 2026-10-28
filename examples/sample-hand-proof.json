@@ -1,0 +1,1051 @@
+{
+  "version": "1.0.0",
+  "handId": "hand_purr_20261028_0001",
+  "tableId": "0x7a9E4C1B28F00429D8fE1234567890abCDef0001",
+  "timestamp": "2026-10-28T14:53:07.318Z",
+  "kdfMode": "SHAKE256",
+  "deckRoot": "d1441349b699afc22b0be02592a7ce1ed1ec8fee804529db207397f54323b36a",
+  "initialEnvelopes": [
+    {
+      "envelopeIndex": 0,
+      "commitment": "efbb58b14093f1c4f3eb9796107c4cc3f2f545229a91c89e97a84d2cfd69a560",
+      "zkCommitment": "dde9befafce2d3f7019f836efab60fa7c6e13333c54c7e3d42049315ec034f74"
+    },
+    {
+      "envelopeIndex": 1,
+      "commitment": "b8a787a4d6d048b222bd2b81fb531a49e82b1c50c6255c0000931757e1a83dfa",
+      "zkCommitment": "17260770a47c41f92b83850409b3c0bd8324a2301efe7bba4feea31a2739ddf5"
+    },
+    {
+      "envelopeIndex": 2,
+      "commitment": "a75bd942a5947c821a39ff3b816444bd8a06cd9b325a2a08b6d3058a2597e08c",
+      "zkCommitment": "ead9def9d8aeb8f6d9fa4fbea342a59030d817cf33e952635823d8f6b29f937d"
+    },
+    {
+      "envelopeIndex": 3,
+      "commitment": "821a42e74db69fd455b7f6da7f29e52e881528354df3af70c55184a8fb8f9a25",
+      "zkCommitment": "11557e24c77d86f3a1de9e824711d87911322a164d34bb9ce17092dde39f0369"
+    },
+    {
+      "envelopeIndex": 4,
+      "commitment": "de9fbfb9a888989b60de84fc5a105b15669f14ef8076e40fd7523a44165866a6",
+      "zkCommitment": "3b1df7710b98d2b1d56079ba3657322ddcf5d0058bce81d95bee4bf8dd5c8b74"
+    },
+    {
+      "envelopeIndex": 5,
+      "commitment": "1b5a746ded16ecc143ab04bb8c9ba88a5e6e0daea01c8773dc04891baa04a745",
+      "zkCommitment": "da53a86d8ec4401d0552f25e57515baeb1e8e11e4e1bbe58e252b92c61d0d4be"
+    },
+    {
+      "envelopeIndex": 6,
+      "commitment": "7f279a1dbce623c52b9eaea814cc62878b6352283a7da84188851b704d36c17d",
+      "zkCommitment": "2bde5af57d3bb2080fe4b9e345bf52ad36f3d8fbc9a08cc0999c5c1be9d45f97"
+    },
+    {
+      "envelopeIndex": 7,
+      "commitment": "a2000a89188260dd1afc4e4f007e03e91deb6b276fcefc06899038bec771f45f",
+      "zkCommitment": "a494cc666f146215de0513526cda27a66c7abb98ac4bbed23643b4cd2636925c"
+    },
+    {
+      "envelopeIndex": 8,
+      "commitment": "54def265b9e69698675fa4e31a9c302acbb02f6e6d09d612319993a8db7da2f8",
+      "zkCommitment": "92b81d268d68b9bb302b33b5543714c4881179762894048ad2825830b0103e4e"
+    },
+    {
+      "envelopeIndex": 9,
+      "commitment": "82d05d2d757da4c4243c0ee67e6768eb1705f7b3a37460f226364a8a1fb013a9",
+      "zkCommitment": "7b697dd175fc901bbc02e875822548c14f2d8242b3b883b5d3f65cd5749f4b8c"
+    },
+    {
+      "envelopeIndex": 10,
+      "commitment": "0dc914669d77ff4d159a92ad4bbef8411aa221901600afc10b3f976cb9e2ec9e",
+      "zkCommitment": "145fee4c78b2875ef300a1153f8375da37871ee152f91f78fc8bc3a1b1fc7945"
+    },
+    {
+      "envelopeIndex": 11,
+      "commitment": "6344bb6798206c45ba6c1bf74b79bacce4f0a2c2fbb9d16bca53e3f4639cddc4",
+      "zkCommitment": "eae237a67eeac85ea58e1c270663bcbf421b7494c4924a7055a4b65d2e267917"
+    },
+    {
+      "envelopeIndex": 12,
+      "commitment": "bfe90b0e123904fc35ba1cc5b0f84e60747eb7bff619d1cbd23959b063b8d471",
+      "zkCommitment": "994cf1b6fb15f465b01a94848367f12019ccb56be7ced3ad3423d335b17ec6a5"
+    },
+    {
+      "envelopeIndex": 13,
+      "commitment": "32df61868760976fe3cc92920b1c3d7e06e68a82992e726ce39bf9f5192daa50",
+      "zkCommitment": "e85e6255efada28d6be23006610bb13667dbc8c202a93f1fb8658b4645fb4ef7"
+    },
+    {
+      "envelopeIndex": 14,
+      "commitment": "45bd8de976456feb92871af8d1890d9a06c4dfba4fba40d05dce8c159b854554",
+      "zkCommitment": "33864e0bf67418e1f5e69a8817e6762ee1e52d63fb0b532dc6c3bc058b2aa006"
+    },
+    {
+      "envelopeIndex": 15,
+      "commitment": "dd2dde60a19c03f1291020621906c8a0a41b919f3239e45a12d33b355c6ef954",
+      "zkCommitment": "0c1ca9d6048cef82df3af15496268c9ae6b488ca632c89c37ad9547d9ae246ba"
+    },
+    {
+      "envelopeIndex": 16,
+      "commitment": "48f8996ce64fd78d77647df3bb05296b1503b25cc03f4886e3f355581fa90a5a",
+      "zkCommitment": "02a1f8b5c155e69efd7c791fbdcca5109c7102dc41bd72ae2a9466069247af43"
+    },
+    {
+      "envelopeIndex": 17,
+      "commitment": "73c15e08d63badbc4bf24a6884af05282305809fad8e852d18d53a36670cacf4",
+      "zkCommitment": "2f81faa274ceace5ff421ecab4f0bddc9c2d7511087cb2d0af99826e706a7b92"
+    },
+    {
+      "envelopeIndex": 18,
+      "commitment": "2f80c49dc2ae8dd609f172f42bcf277caa83b6c7fd37c19b8fe8d7b3b551090c",
+      "zkCommitment": "62b583f5db73340eea822bc715bb8a93f58f1f92cc79c405a4122452f96e58dc"
+    },
+    {
+      "envelopeIndex": 19,
+      "commitment": "3bc6f51a324608dff4efa71c5e94f8cab56b61ab86b1b74842683902ff08d5ff",
+      "zkCommitment": "e52ad5649c7b145c39900d9e65ffe49648668035166ff7d9862e28ad8e38082b"
+    },
+    {
+      "envelopeIndex": 20,
+      "commitment": "cb79e91074562a41eb0cbaddf5d2c3ecb5712e0c34a219408f6dd0dceee26a02",
+      "zkCommitment": "5292d25d7bf56ee5f0c8b4b97b45c74d42b2fa641830c58005b87d1cba5de882"
+    },
+    {
+      "envelopeIndex": 21,
+      "commitment": "cfb108c914a14f3cd6e7ac6f3ca95d113bbda92a421a420d8eedf92909bdb474",
+      "zkCommitment": "06f0a50af1d1f3ddaff3e4305fd23d05f026c13917bd2c19d3dcba7555cc865c"
+    },
+    {
+      "envelopeIndex": 22,
+      "commitment": "9decc6da6b70ed62b4d8e6630b34cd2ef3571b70d9ff81dde6f9a76023c019b1",
+      "zkCommitment": "3ceed4a4c025e02c96cf3871340731cfea0e6a47c75e91567bbbc9920cb04743"
+    },
+    {
+      "envelopeIndex": 23,
+      "commitment": "d3cefb4629514b8125a58a567a8dd45d8314e2f8846c731f28ad9f2931553a05",
+      "zkCommitment": "1964c966f2ec519ac2aeb4ef217a2fd1033c42ad94f603872ffcc5f1d06f2c75"
+    },
+    {
+      "envelopeIndex": 24,
+      "commitment": "f08744bdf0eb7098074ead6b37fd7a0ad4c3912007bd71454abc5403485a96d4",
+      "zkCommitment": "c496790a198fcd7a4605a455e9bbb0f22440c2fc8bc6262daa01c3919d1896b4"
+    },
+    {
+      "envelopeIndex": 25,
+      "commitment": "a6803b2401a3941da6933f1c9bbbccf4235d78ee949d341f52e7b480d9fd87a1",
+      "zkCommitment": "9adc0b6ce7b6fee2a178dd9d91b1696b268a98e4096b81987267ca47ccd466db"
+    },
+    {
+      "envelopeIndex": 26,
+      "commitment": "271f7dd9d87891a3582ae1908ad2343711b77175ae9a20c33872fa5b7f8852f1",
+      "zkCommitment": "12f76ca8080cacaa39333faa3aeaad9511f72b2fa06e5ea85a6ce8547b87d7f3"
+    },
+    {
+      "envelopeIndex": 27,
+      "commitment": "d44edc4ada97cb4c769011102251f41ea664301a2ad0daec4ed8a28a9074ff33",
+      "zkCommitment": "f64c2c498595a9ac067edb212f5ce9d5f89eee019482da0530dafe006d2319d1"
+    },
+    {
+      "envelopeIndex": 28,
+      "commitment": "467432c460bade11e9a5331ecddc6d3ce35e79772f9050962f5d485188838530",
+      "zkCommitment": "f10432a64ac7ef72056387b14c51b082952afe8a4750ae967c705d6fc52f218b"
+    },
+    {
+      "envelopeIndex": 29,
+      "commitment": "a55f4f8aabac6bcc24cf15d151e6f76ad0d86181589f2d6c22810eb8da962a30",
+      "zkCommitment": "e74103fa0e6a74100c7c7f4cc04cc6c2bdf8c4bba6a7149f924f632a24d5de85"
+    },
+    {
+      "envelopeIndex": 30,
+      "commitment": "e0ebb85facd2e4d28309a6d3023970f8bbaf5ec1c53d073f54d774f2e9e0157f",
+      "zkCommitment": "4febca1f017cd00f454e2cdf1a0c464ed0bda844ddf795647ec9f25abc9b64b8"
+    },
+    {
+      "envelopeIndex": 31,
+      "commitment": "8f8b68df709ed2cdb2ffa9166fb1bd4f607ed1409d80e4613a17c62b2c7f0329",
+      "zkCommitment": "4afe7b2b1ad71cba341cc5403af97a070e8b6e92662ebb72abc6a1b5ae034040"
+    },
+    {
+      "envelopeIndex": 32,
+      "commitment": "0e56e724fa19077bfd969a358ece6cacd2c8ab72f10c61411ef386eb7021237c",
+      "zkCommitment": "13605ece208316ed385fbea351430a6cf9dfd148b7b89b356e8b746c1db7ad99"
+    },
+    {
+      "envelopeIndex": 33,
+      "commitment": "6f21ab3bbb2ba46f76b2cfc30ca2e37b1102a533f5be8a570033c2e1888690b1",
+      "zkCommitment": "657b6709d6e0fcebfdcae8b07e382dc51203cf16d04c682d9835ee55980ab950"
+    },
+    {
+      "envelopeIndex": 34,
+      "commitment": "a4904f44004fee013e8664738e8b7607e17692f6c2821bdb551f51df6a0e9aa1",
+      "zkCommitment": "132140afbf6c7e7d9c95fa1fa6153c1877996758b01b91c16d677a77604f8e2e"
+    },
+    {
+      "envelopeIndex": 35,
+      "commitment": "9aab08988d4cf84e30458c4b7e83ae60ef0b65abe2242863508dd78dd43dbba4",
+      "zkCommitment": "e85148ce2c3c522f6de6f96f6b06978d2f5f871ba8dfe74ebcf40eb66db9481c"
+    },
+    {
+      "envelopeIndex": 36,
+      "commitment": "e797a623684343ad8cdfd8fb65803373f9ad1fcc61f52ff2db369eb53fc4b552",
+      "zkCommitment": "cd6b99b43c415abcc721a51108be918b06e0ce2da356758f254b518e9ad48523"
+    },
+    {
+      "envelopeIndex": 37,
+      "commitment": "329397f347af6f2a2a89378211f0665d9829a515e72f15515ccb2c555e685533",
+      "zkCommitment": "7b1668842ac83926b30debe04a9616f8cb3930eb87588aed36791f8f2cb79eec"
+    },
+    {
+      "envelopeIndex": 38,
+      "commitment": "9c522db764529f1ce035f0af136e2f45c1d1724d084384107263c145bcf01b22",
+      "zkCommitment": "c0d4524d617e4f78894e912fe6308a995e994ba12f0ecf991332b018d00af97a"
+    },
+    {
+      "envelopeIndex": 39,
+      "commitment": "cea05c8451892322d9a3bbd24dd3eb76d16d78fd70037b2425ca761f52c9c38d",
+      "zkCommitment": "4add63e0933de18b5dfaf2ec72a473592151615dba06578efa5ff1886977ae33"
+    },
+    {
+      "envelopeIndex": 40,
+      "commitment": "59287e40763563ef03131e8ea7ab37c7f7b2c8ee7a69ac4600e3b449fbf3c18b",
+      "zkCommitment": "60800a30e3c888d793b0668327460ada08b5729c54424e88539d455c01b76deb"
+    },
+    {
+      "envelopeIndex": 41,
+      "commitment": "a1c8f709befaa5990a627408fc3bda942d077ec4b0d10f5e67ec3e9ef84ddb9e",
+      "zkCommitment": "317da1cbdf6fd36066f2e902d8f855731f1f453e0fedc6e506ea8139b217b96b"
+    },
+    {
+      "envelopeIndex": 42,
+      "commitment": "2e0259e0822bf7977e54db8f3b318e5021185c71fee829a54afb980a0691ccf4",
+      "zkCommitment": "c8d25fc75e536e4179114b33243af5572851d7f3fc04aa2a50af32a583c82702"
+    },
+    {
+      "envelopeIndex": 43,
+      "commitment": "8b2efa617b006f5510cdeb8cfe275eaaf79807a3b290de9ddb688f8ddfa0a858",
+      "zkCommitment": "a12028a1e78da9ad5f1498eb1ad67c2d8232c5a2f17c10a6bf6694a15d21bc9f"
+    },
+    {
+      "envelopeIndex": 44,
+      "commitment": "5073f02d7d95d5d9eb7df6b4329320c235e9934ab0bc7d45c397146cd233a57f",
+      "zkCommitment": "b174622d4bd8ca5acb5e0af420fa9e66e4a116d55db5a961141d2fc420a28265"
+    },
+    {
+      "envelopeIndex": 45,
+      "commitment": "f3bb2818fdee3bcd3288e802e05e3bed625f04495824989a4086e78e4ad22540",
+      "zkCommitment": "93b2bdc634f5c6fa0e438fb258dcd83f1065249ba8870b1f520e1c353ef70251"
+    },
+    {
+      "envelopeIndex": 46,
+      "commitment": "6c7cf8fe68845b9e05d244ba192ff3c01766be15584b4b64b9d2c6447a3e2117",
+      "zkCommitment": "d3e48722c03197bc58420c5804f11a50073f4c3ded8573cf0f2d9d40c788b77d"
+    },
+    {
+      "envelopeIndex": 47,
+      "commitment": "f72d53e9dd7bf3059e288167a05f205dd2900b7398e51f3093d3183555010b88",
+      "zkCommitment": "017e21e8c54e462ad78713b605a9477f06af6f312c285e704c705b530b8a1ec9"
+    },
+    {
+      "envelopeIndex": 48,
+      "commitment": "c19b44991ccdc2e07ae10b9aafb8166493ee070678792b9812fd188dc3b12771",
+      "zkCommitment": "02048856a42e7b52e11eea945bb556a10dc4b3105bcd084a1bec38081cc68fe9"
+    },
+    {
+      "envelopeIndex": 49,
+      "commitment": "1482cd4a151edf20f1e53b376a6efc8a2ba0c34bb75fc36f990a0b74e5e149a8",
+      "zkCommitment": "e113ae7b6b63ae31ffb0581991da242a86322d9b11d3a14b3a125a20fdfa1857"
+    },
+    {
+      "envelopeIndex": 50,
+      "commitment": "60b338df0a2b3c35b2c436fed568a7c3a854b02cffb2d70825df60ac126abb9b",
+      "zkCommitment": "de5a31a4fbe6e7c5d1cec612f1c7a49ca02ea68ba2b8644a2387d0c6fa4ace04"
+    },
+    {
+      "envelopeIndex": 51,
+      "commitment": "32cab4214abf0d9765a0d2b0a21c1dfd20be791190c643b0a1cd1430d1091b92",
+      "zkCommitment": "d21b7c5b6c2a5b3c0d008edad27a11376246b7c6528bdc0b39d16fc201a22b26"
+    }
+  ],
+  "entropyCommitments": [
+    {
+      "participantId": "purrpoker-Dealer-v1",
+      "role": "server",
+      "commitmentHash": "0029f719377001d31ade650d577e6da8227257a322c2b2fd7c7659926cc1d3d6",
+      "committedAt": 1793199187289
+    },
+    {
+      "participantId": "0xAlice_Seat0",
+      "role": "player",
+      "seatIndex": 0,
+      "commitmentHash": "d51cefaf8b4299103e636796f134c0638119ae213efef88f1fca398aa9a6561c",
+      "committedAt": 1793199187289
+    },
+    {
+      "participantId": "0xBob_Seat1",
+      "role": "player",
+      "seatIndex": 1,
+      "commitmentHash": "6154539563a7a85e027d001aaec55f9c97c6368891cb9eae5f2c42eff18e13f8",
+      "committedAt": 1793199187289
+    },
+    {
+      "participantId": "0xCarol_Seat2",
+      "role": "player",
+      "seatIndex": 2,
+      "commitmentHash": "a53bcd3ae6e88cae6bf4922fa9a9a7f2adc47e6911bbbc335143c1b2073ebd68",
+      "committedAt": 1793199187289
+    }
+  ],
+  "entropyReveals": [
+    {
+      "participantId": "0xAlice_Seat0",
+      "role": "player",
+      "seatIndex": 0,
+      "entropyHex": "27dbf18ee5ea96b99416052b6a7393da5e5fe1a2733ef40aaada0b940ffd1990",
+      "revealedAt": 1793199187290
+    },
+    {
+      "participantId": "0xBob_Seat1",
+      "role": "player",
+      "seatIndex": 1,
+      "entropyHex": "c7154743d03d64818c31bcc00b24d71dc98a313bf962a99d7cd2aec270730080",
+      "revealedAt": 1793199187290
+    },
+    {
+      "participantId": "0xCarol_Seat2",
+      "role": "player",
+      "seatIndex": 2,
+      "entropyHex": "35a9aa12d8aebf5375250a9b829f2d14582eafcc16b2c3189c506f22659e3c31",
+      "revealedAt": 1793199187290
+    },
+    {
+      "participantId": "purrpoker-Dealer-v1",
+      "role": "server",
+      "entropyHex": "fb4478a4fd7f04a8a5141d666c862ec78f78d30cdb5594a1bfd3def3a4b74cfe",
+      "revealedAt": 1793199187291
+    }
+  ],
+  "masterSeedHex": "1375aef8cda50bc9b54bfcc616bde9b20c2fec080b5ad49b8083f5c2fbfa1e8b",
+  "permutation": [
+    44,
+    37,
+    46,
+    5,
+    14,
+    21,
+    47,
+    48,
+    33,
+    51,
+    40,
+    35,
+    8,
+    45,
+    23,
+    13,
+    11,
+    4,
+    26,
+    49,
+    27,
+    32,
+    2,
+    34,
+    9,
+    39,
+    12,
+    7,
+    30,
+    18,
+    19,
+    28,
+    25,
+    20,
+    3,
+    43,
+    16,
+    29,
+    22,
+    42,
+    31,
+    15,
+    6,
+    10,
+    36,
+    17,
+    50,
+    0,
+    41,
+    1,
+    38,
+    24
+  ],
+  "zkDeckProof": {
+    "protocol": "PURR-ZK-DECK-V1",
+    "fiatShamirChallengeHex": "59ea24b6b0c380ae509bb98a85f1c5ba6bc190a4e5f730fda7a24d64ef38d0b4",
+    "grandProductCommitment": "a9acfe780046e9f68e15c55fdb3575d61f500982002642bcdffc848663d662d0",
+    "aggregateBlindingResponseHex": "9071bdaf00935882a7242e4ef49b546122630081bcd67322ba27fc01dfa4729e:7b068feb871183d2b5ee9f517e974b6b25bf145a4bf1235bea2501b5e69588d6",
+    "sumInvariantProof": {
+      "expectedCardIndexSum": 1326,
+      "aggregateCommitment": "9737301a83dd365c2f98c0374b846b413716c77cc0ad82fa52be56f90606f3a2",
+      "schnorrChallengeHex": "59d9ca546e9ddbf67fbc1c853f59ec22c4d7c42bd5f9e021e54536035f2b3727",
+      "schnorrResponseBlindingHex": "e09f3ef8451533e4402deea7410a5648754eb3a61f2fccec3c34027ae2ecb5fc:1ff73575b9dceb6cfee5547deb597f0d575f0836764e33cb7417b1913fc8ecaf"
+    },
+    "factorCommitments": [
+      {
+        "shuffledRankOrderCommitment": "58732eb88b10cf586bb76845d7ab7d9f8bc7a74edeeefca227c1327aeb8c7139",
+        "blindingProofChallenge": "0f442260264ed238a3e5419d898a705c1a5d8cb1bff1094118f4d05f213168eb",
+        "blindingProofResponseSValue": "5fef038ba37a9484e340dd581d171b99d9a720ef9504a5ec61c9b60c70e609db",
+        "blindingProofResponseSBlinding": "0468ec3cc1fea8c040ae15a9e1ad5a7fdc02aaa4e864d189dc94da9f18f15c76"
+      },
+      {
+        "shuffledRankOrderCommitment": "e4611a500a4ee914227891bc52d251373daf035f8af749665d5d65299f10f47f",
+        "blindingProofChallenge": "671b85b3ce38de5409feb0405db023aad4418a26f11e8c4abf032e4303b6887b",
+        "blindingProofResponseSValue": "737902feae86ceab8951bf107ac4dc0fa478a8c0b5104e135437f3c653b7cc96",
+        "blindingProofResponseSBlinding": "55eea5e6d56e1ad77636feb646f01ff712e50a0fd34860c5ffab3e252314e473"
+      },
+      {
+        "shuffledRankOrderCommitment": "106b6d19756d1f12da7caabdde03f9b3a3ba926073c06469e805bf23ccf4ab7f",
+        "blindingProofChallenge": "3ed88b00e2e49c0ae7fa86acd7b92450f17b04e12a5d5bde8bb9e0358742f2c1",
+        "blindingProofResponseSValue": "3a56e6bfc6a3980c6db108994889ac6e5e93ccad1b92b6c39507147131450a54",
+        "blindingProofResponseSBlinding": "7b1b310e51a3336fed5d2562d248f7beb3bb72d7519596803a9e32d03eb5ba0d"
+      },
+      {
+        "shuffledRankOrderCommitment": "7c0381c0c2cf94d144abed28a94ac63dafbed661796317e7206a12b93455ebcf",
+        "blindingProofChallenge": "2c51930bd8631758dca6b379527a318a0c3bab32ecc96ce6f4b2d8a50d26191c",
+        "blindingProofResponseSValue": "44172cbb8ba1060a81b6ecd30ccb151c3d4d3b5baa644c713ed828974ab3bdc4",
+        "blindingProofResponseSBlinding": "4f457622ad81a5803bb10516620948d19c22578e9f91dcbda5a61282e6a117ff"
+      },
+      {
+        "shuffledRankOrderCommitment": "81268227395576d98b7566c1a90b92c8d1a53d94203a6e7691550e2613541b00",
+        "blindingProofChallenge": "0fa63616e6a7fb39ff3b011d87e3ba8f87006c2d76f5158ae8aca2287eaedfca",
+        "blindingProofResponseSValue": "048ff6dacffbf86ef55e6f0a7487030ec2ac4004f3d21d17bd4fdcbf0e66bf92",
+        "blindingProofResponseSBlinding": "0a7b6b705af65fa690474257e152a711a62559d07b48144928d826a9ddb44076"
+      },
+      {
+        "shuffledRankOrderCommitment": "14c0ce70c239cd0b4f172d2cb0072073cf441c9abb3051ba955a18fa779f00dc",
+        "blindingProofChallenge": "00f6421e698e4440cf341f80fc4523f910ed3247182b1ef4751e7ed210ce6a73",
+        "blindingProofResponseSValue": "0c18fd5fd506187193acf28b3b4af9c52635b222947e01c4df9ecf704f2989f0",
+        "blindingProofResponseSBlinding": "3427d3f539bd27bec7a91d951e22d4224823b4ec6dcb24638c9df75e17476aa8"
+      },
+      {
+        "shuffledRankOrderCommitment": "019f14f3ea41fd3568e21010e14de03e89b757f55e4adcde13ae71d908249da4",
+        "blindingProofChallenge": "638233cdde8dfb1ec3987768b9b9009331f84c0b44e2476846b086cd48f29212",
+        "blindingProofResponseSValue": "0acd3b4b696e67a88e0df5fc467f5f9a6ef7b56f4f3c93cb00a32264885dd937",
+        "blindingProofResponseSBlinding": "2716e0025e3ff71125e90523656b99e512f80b8e63a2065361b97e186bd4e43e"
+      },
+      {
+        "shuffledRankOrderCommitment": "ed7a6d113805608d9f373caaa32104569db936c8afa83299fc4bfb33fc6bf3e1",
+        "blindingProofChallenge": "06a38f5a9c9a6742b50a2b2aa1fc85c1261deba5dd0027b44696a0c6006dea40",
+        "blindingProofResponseSValue": "35e1684b0aba479990201a2891f256d857cd078f5735eeb975970d03806e513b",
+        "blindingProofResponseSBlinding": "7618e1f8af8fe038bb4c8c89d54e2fe222d9dfd01e134025bcd22faae49f3bb3"
+      },
+      {
+        "shuffledRankOrderCommitment": "d23af1ac5f609c8e532c2a86a4436017b6d94c4ef60d1895e3a7822c5a552a8b",
+        "blindingProofChallenge": "61b935b93ea35de96327aa8e342c698f5c5723c26b9c4ce9a009e9f3c6fc16c6",
+        "blindingProofResponseSValue": "1f91a9c51d7c9b8fa518f07a7ff3551fb378be34524e92f65c97c96b12af6fa7",
+        "blindingProofResponseSBlinding": "38e173897e960b6e54dc1a7d738bdb260b61a5a07bd2338a66f37cbe091c527c"
+      },
+      {
+        "shuffledRankOrderCommitment": "8789cc80d0307c9eae9fed11a51da5f6e74e07afc93f1706ed85f0955871b112",
+        "blindingProofChallenge": "3c79c20d6b7d2a6cd3d07c1902f1b40502f55047b4915cbfc8180bb8574c6405",
+        "blindingProofResponseSValue": "4c10f8eb47d6539b37f5272230ffbe08b70c397ca8c4aff81bbdf8b8fc0826e3",
+        "blindingProofResponseSBlinding": "3c5f0c59a5ebc5fe9249ede3877c87f4d48308b65ddcb3a5b8c9b1869958eb0f"
+      },
+      {
+        "shuffledRankOrderCommitment": "5a0e9322ad66e3f205c401b472350e76bb442299b866da6a791645a553cfdc20",
+        "blindingProofChallenge": "6f03c3192613c3e8b6138b85e59c419abbb0bf08d777f767e5e467da54ad971e",
+        "blindingProofResponseSValue": "268ca3dc9538d165da42cfad0afed5305356cf469b6a8560b83107d4c95fa72c",
+        "blindingProofResponseSBlinding": "795a9c44cf2d61c74a85f65dfe1c8f1e81dd12b909fb9e234397c44158bbc6d7"
+      },
+      {
+        "shuffledRankOrderCommitment": "a2a9bb3764aa02be4c878c5e08cba791a109062617d1ebd4ec4be3eaf68080c8",
+        "blindingProofChallenge": "63b6c37b45de8a3ca9c7c542d3e6b011f88c2ceead229a0e7310f8e3e43c3d89",
+        "blindingProofResponseSValue": "0f117e776a58808610e63710392ea5dccbcd69536f401415ba2cdcf414ac4b65",
+        "blindingProofResponseSBlinding": "5c32590a4778a3c5e52d850153cd293970f05a3d37f469d0f5ac4705ad7b02db"
+      },
+      {
+        "shuffledRankOrderCommitment": "92aa9150c45f2cedb2a9014cd9b8b09781bc086fd2aefc9c3147c69f0e25e490",
+        "blindingProofChallenge": "11a5b122b57e263d51eadc26f2a1532455771ad59b5f00f648b368dc2b8ca4ce",
+        "blindingProofResponseSValue": "39f24a4607ea6ac34e52ccc4da883bf42e7570a2907cf42b135ed268f13d7b4e",
+        "blindingProofResponseSBlinding": "677528b1ef98b6039688e043f90de8b98e9be246e9bbf2b1afe632b4cc496c95"
+      },
+      {
+        "shuffledRankOrderCommitment": "892d7ae123cfeb17ec0b04b1761e32bdbe19005f6deff46bc770dc7308ce5e46",
+        "blindingProofChallenge": "3d1030b54386a2ab2806f77bf4a46794ac1d20b114f0ef8f53c28b8b60bf4de6",
+        "blindingProofResponseSValue": "6b112d5d1adea78c3d268a63d1c9c9ccae6fb8edcc4be1ce0c0cd8e550e80355",
+        "blindingProofResponseSBlinding": "63bcebf2b2bfd4fb66a19476a6ef4c4d091f9a0e8d3cd9df1c6e1dc624be2f39"
+      },
+      {
+        "shuffledRankOrderCommitment": "aaf07990f55d66f2f89816480b6f370703977999708e576e3b5774c3773f3b3b",
+        "blindingProofChallenge": "140152d80cfa8d1501076ee86b19da95c4028590ede7190b2d760dd07bd348b8",
+        "blindingProofResponseSValue": "537e72839357a2957478a59c8c8861b0102969406a39547e501875de680e54c9",
+        "blindingProofResponseSBlinding": "1d5103a148f749e8da637c93a844ba1a2635f35d4fb4567a96cd121ed0a560c4"
+      },
+      {
+        "shuffledRankOrderCommitment": "6b23ce35bc7fd192532d3a7525b57cd701a5799e0f44959f83b7664a70f3affe",
+        "blindingProofChallenge": "3d7e822345bdf01f1ca5ad7e36544443557d72ffe110980e01f6b5c0f40af9b3",
+        "blindingProofResponseSValue": "0523740302576a2ef6f6f844c91a0dabbc70af078559650d6075aa10d49ca1ac",
+        "blindingProofResponseSBlinding": "6babdebec5e1860faf35bfe0f982c8978c6cec309b07d2c55a0a4a9ca12b66f2"
+      },
+      {
+        "shuffledRankOrderCommitment": "449f2125d5f0300a8a5a7f736354e8b233193714449408fde88253a0f93b5fbc",
+        "blindingProofChallenge": "0959d115c5707b025f08c397604898cebe6dedd82879ab42fe7a6958f8b7c84a",
+        "blindingProofResponseSValue": "66d42910a2fa917e8746653e095280d695f180cc23789835c65429b2a017b840",
+        "blindingProofResponseSBlinding": "058414dc18f2cee4581a614636afe1b6ca52c2fc0ea8a0147edc2e836349aef7"
+      },
+      {
+        "shuffledRankOrderCommitment": "d461cf42c895767c8ca4f797add9e60b5e1b25dec458268dace4202a51484132",
+        "blindingProofChallenge": "195693458284dad16a373f60b1517a75a51bbf7763033b5e924474abfe786488",
+        "blindingProofResponseSValue": "2e52039a545c065d50254cc9c7534c9f962d03a7aeac4dc002fa51a3eae5d32f",
+        "blindingProofResponseSBlinding": "3d5b2024c473c7d89cde34da00ef3fc2edbc78ea9264f628a331917e739fa9e3"
+      },
+      {
+        "shuffledRankOrderCommitment": "2a92ddaa044be25389b66e0c3157bde825cd8d0f0b8b74d317050be1ce78a13f",
+        "blindingProofChallenge": "51067077fc2361fc7007374c14470a4d2e03290140a7fd1d3e528f6ebec64d9e",
+        "blindingProofResponseSValue": "7394009180f3246d21c285647a81e1d6733bd1fa7b60e9bf22e236af7fc33b02",
+        "blindingProofResponseSBlinding": "7901ba240b4e48abebb32d516155834da0ee96b5fc74dbab2fa24957c01e81a1"
+      },
+      {
+        "shuffledRankOrderCommitment": "df2d5a3ac8fd808af83b4a43dbdb2ad39a38655a64ed452e62307d57d2703ffc",
+        "blindingProofChallenge": "6cf4ed427426c4f738d4fa1c0cc7f1f65a4edff7903f7b5171a3a1c39f30b15e",
+        "blindingProofResponseSValue": "3e6831b6196c6b5859a3378832f89b385eba47c1f61c0098ae9478a76cea94c4",
+        "blindingProofResponseSBlinding": "13111cabef087c1f538dc93e356da2601b448f4d7b0408b0d4227ade4978ad47"
+      },
+      {
+        "shuffledRankOrderCommitment": "a7563d632ad52946f262c89914015e43e6d62fabceb4cb0479372767866bae32",
+        "blindingProofChallenge": "043220b125e4d3713136f91dd8849422cb397acaeedbf1cbf0a1f8c5eb818ee2",
+        "blindingProofResponseSValue": "01986d4fe8ff08ed20e7358a02ed1c71e1ffdd17be43cb3d30cdb68157cc279f",
+        "blindingProofResponseSBlinding": "6359c384704badcdee66ba493833c5c820dd52a6f68968e27cbecf8e0f165e8a"
+      },
+      {
+        "shuffledRankOrderCommitment": "3b7fa01ebc3942d8cf6b5f6e4ebb1a6f6144cb6801c29ad81810f60eee73fbf9",
+        "blindingProofChallenge": "7766ae19867ec448d152342bae40dc1cfb5ff585903df188305a71b0c0630aa2",
+        "blindingProofResponseSValue": "3544d287669201b352c5fc2bd6f143b7758f6a456412cfd16305e161570dfc35",
+        "blindingProofResponseSBlinding": "3560ecba19a1e0e8f45709c92ba8bd02340cf30dbc19f7efd05a400c7378baff"
+      },
+      {
+        "shuffledRankOrderCommitment": "8aebfc3d7df0386392c1a07ca31d8ae47a13549a143d29148cd9fa14ee0380fb",
+        "blindingProofChallenge": "5ec90a76926bd7c37ce8ebce6d24b473ea297966a0ce488f2f88264a00c604f5",
+        "blindingProofResponseSValue": "01d58de95cb78effbdf572f03c6a22c6d705064b73defa5f675372bd450fe2a1",
+        "blindingProofResponseSBlinding": "48aaa207ca8ee7ae11d68a9160162728b11aed470847ae7ddb3583f6c719c641"
+      },
+      {
+        "shuffledRankOrderCommitment": "ca98e10df9b122b05ab917b75ec95c38959601d9332a68d5204a573a2772b954",
+        "blindingProofChallenge": "0f7df52b7af6194a2ab7429e7bb0766f4d5b884cd15a02da944b9dc9014e62ca",
+        "blindingProofResponseSValue": "2e308c24dd2da05bd060d2f05a231d15a2913da8327977435d379ff768ee98ef",
+        "blindingProofResponseSBlinding": "43206c2bde63f4b599e33b4ada163e128eb47da10d6a387a8976c4e51eac8f55"
+      },
+      {
+        "shuffledRankOrderCommitment": "63fc5a84f76fa6e8281a4dc3866cd77947636f8b9d7174fd6da338c618099d84",
+        "blindingProofChallenge": "2c73464641335e70016d58fe04805e59af5e2140ad0c7af729c5c2ffbd281923",
+        "blindingProofResponseSValue": "03ef5c7c44cfe125cd299ac0fddafa0b35be7161f5b0d4de2a965e0a84bfb384",
+        "blindingProofResponseSBlinding": "642453c75673a8b65669cee76460c211a5f5c5079209c2d8ec271ebd8f1a03f9"
+      },
+      {
+        "shuffledRankOrderCommitment": "59765d4ae818c258af022aaa93dfab59bde6c2e606dd4ca002ecf1ffccf16630",
+        "blindingProofChallenge": "33a03d4a59339bd9049e4bd128139c0ad6c68014efca66e467c89bc9f7094f27",
+        "blindingProofResponseSValue": "5038858f2ba4fb8032926b8d4dc1770662b411513e11969ba4a7a0ea6f4d786a",
+        "blindingProofResponseSBlinding": "4175454e32e7604530bcd4b0be4a2b28066efd375b465364681c7b35348a3346"
+      },
+      {
+        "shuffledRankOrderCommitment": "3d921619ca2f22082d248d5f87e4ac778c14c34c3c8c492006ccc8fe5ce2552a",
+        "blindingProofChallenge": "02a54e5f3c8b623c49b52432c1b484afa5ef77f02f9e7c8917a56cd40ef13c18",
+        "blindingProofResponseSValue": "51f8c8c12648672e84129435f879af187f4e9acc03a788c261f9d76e20d1d284",
+        "blindingProofResponseSBlinding": "71cdd622a2277da311e5194ed92142754bead66885aa988f76724400ee9a0d80"
+      },
+      {
+        "shuffledRankOrderCommitment": "be848b2cce34450a498782569e71b8614254f53f13ff6e112f551dd47ea25048",
+        "blindingProofChallenge": "26be14638b0dcd38e2cf17555b681f034f5a1ca33a201ad02d76886bc65d16ef",
+        "blindingProofResponseSValue": "2f0a6869f4fbcdf6afced77826ff11ef536d4cab7807d3af59d77fc28e8ab44d",
+        "blindingProofResponseSBlinding": "7ac8b054a7ab50b48e6eaee35fccce224e5b8627ae8eb7502f274f7149824a05"
+      },
+      {
+        "shuffledRankOrderCommitment": "923720e04e02cee5841b0df0646a9fa501289aef2d4d457fa633814e4df1aafa",
+        "blindingProofChallenge": "4104a77a97b34d2e8b93ce6a11eff125c2ef4c652ed97e65425a250dba4c871e",
+        "blindingProofResponseSValue": "0f0ab67cd6d571907ad779694298956db8f84c14e1b48b5c5a5966b972b3011f",
+        "blindingProofResponseSBlinding": "6b3a18ff7aeee04c9cc7deca10d47479886180ff10b730443c3acee8b566f341"
+      },
+      {
+        "shuffledRankOrderCommitment": "5e02b3063611056e5c984dc385b3d38c466acddd08c5c417268830d95676f3dd",
+        "blindingProofChallenge": "18d4e2a5a5584db326011a38ae6552a289c73ec0d89e7c9bea72fd1faebb4851",
+        "blindingProofResponseSValue": "0871608e1fabea287cd25065dd34b5ba8dd90edf1b6fcf69ac8b28c3136865f0",
+        "blindingProofResponseSBlinding": "6ba01425cd832d3a680cfc811a58046aee1b679e06c4b72ff152e6fd45789ccc"
+      },
+      {
+        "shuffledRankOrderCommitment": "1ecef439f74d340809a4693f98d673b212b10540f039a68b93c34a6f26765565",
+        "blindingProofChallenge": "28056adbe44ddb217336d707111d27ca82d62eaaa4653d4483d83c5ac1aa8055",
+        "blindingProofResponseSValue": "25b7f51adcc5435cfe2486d59d9c8986f9785bad83d7b5fcca98370501fa01b8",
+        "blindingProofResponseSBlinding": "446024a1abcdbde0ac1ced0ee0cad56cd8cac44daae4924ba1a18618ceb13737"
+      },
+      {
+        "shuffledRankOrderCommitment": "15eca1d35b7b59b9b75849fc675cc9daa32dd4ccc95fe0f17d968ff16ea58aea",
+        "blindingProofChallenge": "7c337e22ca3e893a94f21c90d41ee5772cb9112055997d6888adfe5ed86334ff",
+        "blindingProofResponseSValue": "166bf3436509ed41c7adf39e3dbfa8cc2643ed065787215ab35681ac4d502450",
+        "blindingProofResponseSBlinding": "55cabf43a5530cdad27fada03b7def5b55dc8f5d14f9332eaed41a21d5824652"
+      },
+      {
+        "shuffledRankOrderCommitment": "ba57780dda4ceee78959ff7c1202fb913c56a0c533985e2a8b9aeb9f5be1bca4",
+        "blindingProofChallenge": "1dcba332e9a76000bdf87270d78acfb4abeee673f839051dcc242a8693cf44ce",
+        "blindingProofResponseSValue": "530587a9b3bd6fce7ef61f901f1f480548005a31539611186b21ddd8d729c7bb",
+        "blindingProofResponseSBlinding": "11769601608b095cfb81593df5942e0665ad9f90a63c1ab8b5204a2986a20329"
+      },
+      {
+        "shuffledRankOrderCommitment": "7c46ea345d7cf7e5dc00553083d1c9aef619169edb43b3b8af4151ed75ce8b6b",
+        "blindingProofChallenge": "3b575219c6a0c67f31651e6253d80eea6fd7c011672f3ed905abe08ff5d14cdb",
+        "blindingProofResponseSValue": "50d288875d80abf0e2a393583724ae16b48270053f61d5d2b30964f2aed1ffe5",
+        "blindingProofResponseSBlinding": "592bd3907cbb3a338959544c7648747c09024efc6a02ac621f98f5cc97ca9f23"
+      },
+      {
+        "shuffledRankOrderCommitment": "566d36d5f20375133854ae56f4873440a068ebf1bb7c07f940ad67d90bba9aab",
+        "blindingProofChallenge": "30f6dc00021ca72f68bb08fd1c27165820e489b2ac48aa113b71ff47a45b2747",
+        "blindingProofResponseSValue": "73f30e74bc4eefd788b7205c2d833b884c50d02ac7f8f653c7588b6a8160bfb3",
+        "blindingProofResponseSBlinding": "45b8fba956008cf5b241543d57c5fbb191b9c7f59d87e7796b831525bf4dd8d4"
+      },
+      {
+        "shuffledRankOrderCommitment": "086594dccad0f41e445909f842bd95de1a435ea418ee4ee85e0fd0f528efcbeb",
+        "blindingProofChallenge": "2d3fc032bffd2fab5b4bf521728d9e757d5f109342d82318b77b941563b1f2fa",
+        "blindingProofResponseSValue": "239e28226a65ad64ff215f6d842c167ca3bfa8ac20efd56bc76618b0cb801edb",
+        "blindingProofResponseSBlinding": "6a87c6e63626611cab298da243f27cd7d92d2d336c3fa27e5eb4bd852ee4eb0a"
+      },
+      {
+        "shuffledRankOrderCommitment": "9f9167053aa10a5c74b68c074e26a74322b376c39da39dd2ebefb4c9139e6463",
+        "blindingProofChallenge": "0f27394c3596f81ffaf083821e4c0ec13118c1b0bf57f142197700e0173af633",
+        "blindingProofResponseSValue": "565768fc8fca4fbe13343bb1ed798cefc94c76a7ee4a56717a540a7e4ade334e",
+        "blindingProofResponseSBlinding": "2ed51218c0fb09b948969210d9f767c641295db49674f8ba9f263852dfbd68b0"
+      },
+      {
+        "shuffledRankOrderCommitment": "4bc483a63677d98b61ea4b3b6b02228bf713021874662fcc5616b2c739188142",
+        "blindingProofChallenge": "0800d9c7f38918ad37f22ed286bb0aa10289b74222926fc9fa4b782206e99b7b",
+        "blindingProofResponseSValue": "5a737cdeb1bed71c8ebed0be333b0213508680b4e0cc7ae3032bb13e9f1ca0e6",
+        "blindingProofResponseSBlinding": "681e76c8c8846a90f9f58f2dbb40c8b5dae95f4274f45bd361c7bac17fbea858"
+      },
+      {
+        "shuffledRankOrderCommitment": "f415d701d6a7e2fc2e58303db9e12d4b430ed86fd3fc6bf6648d19e74ab70139",
+        "blindingProofChallenge": "151882c82d1e8cc36c067ac3ce64b13e9bd053fba539f3684cc33b4a5113f1db",
+        "blindingProofResponseSValue": "04663391bb4a7a2ecf9609af6439d9d23b67d3837122877c07ec4a3f4f48abe4",
+        "blindingProofResponseSBlinding": "545a8ea66d33f455f56b743f7f53bd368ebafe8851a9cbd6a8ecf5dc441562e5"
+      },
+      {
+        "shuffledRankOrderCommitment": "65472c525fdd9ddadf0b2c69c70b253e8e0838bebba4793ab431ea00a77d4601",
+        "blindingProofChallenge": "7540e97fd32d0a021b4c91f46a477b366ee67c20e741191a5664e8ca4bf53352",
+        "blindingProofResponseSValue": "6bce22a58589c276d8065019378fe04a1605c70e91c36440374c6f0a33290c1d",
+        "blindingProofResponseSBlinding": "0f64fa5c88af5b75b0ac838ca407d512e7fa1ce1df52649b467acba5b009a014"
+      },
+      {
+        "shuffledRankOrderCommitment": "ec3bcfa0b8b7092d58b3d3333a5a122da0c4c918b229db3bbe015d2e27f8780f",
+        "blindingProofChallenge": "50659aeefe5c33b02c4265dc96ffb3f0ec90d79bb951c68911142b52375de4ff",
+        "blindingProofResponseSValue": "1ab8a86367b4f98ffe8f170567db10b3b82a76ca9802e168db4b689926f4b544",
+        "blindingProofResponseSBlinding": "6d57d5fb06f351970f7b781f6e84aea21e2d6f67e8d25602ed6b51439c5fb8c0"
+      },
+      {
+        "shuffledRankOrderCommitment": "10e730bf16bfd7a72ce2b8f14fef31f48abffb9bd3782ec2aec8e3fb2da28968",
+        "blindingProofChallenge": "141b0080367dc8270bb0cf2bae6158dcd35365ad3a346bcc944af9083a0127f9",
+        "blindingProofResponseSValue": "6b266a73ecbaccab86de3037fbb45bac4ca21e296f8b5bc625339612921f40ff",
+        "blindingProofResponseSBlinding": "4c2afbce43629e9871171bdbd31da1be36a6655c261f715ba3864bfea51c0c68"
+      },
+      {
+        "shuffledRankOrderCommitment": "c3c22bd160ef1f2ccfc1014ebf55f1c1641813074eeac1e8528ff2fc09f55247",
+        "blindingProofChallenge": "570845bd06b7d7e1178a3bbebedf9d0a8d96d290f3b758b5d9e30d4a4d45be36",
+        "blindingProofResponseSValue": "6cfafacdf3f9c667a9a0c52ad0e49f75eafdd6c0dac8a98fd3a02f4a3bef6fa1",
+        "blindingProofResponseSBlinding": "5fc58306273e303ca082f4b9d288bade0187592af06ac4f090ce64fa5bf2eaa0"
+      },
+      {
+        "shuffledRankOrderCommitment": "2b6b1328478130eee991451c2fb208aaaa0c7dfa896b931f9d5d49ab8d573a9d",
+        "blindingProofChallenge": "424c017b948dc6cefc56b7aefc23d53c5956bedf97f27ad50ffc9cd6a7f7e402",
+        "blindingProofResponseSValue": "44456be4cea37dee1efc565c3922c02381c642459eb2ff97e49d26fa621d1a87",
+        "blindingProofResponseSBlinding": "3c71204b174e8d9f95ecaa5605094bd363d775a98d094e5d3708311bea0d0a6d"
+      },
+      {
+        "shuffledRankOrderCommitment": "72af21647f170a43e880642d46451a395e3681a4f0ae71e0107ce0950fe11459",
+        "blindingProofChallenge": "5097249c6705a176019c3052b60273d26b858d73a40d29072f10c507d9eefc16",
+        "blindingProofResponseSValue": "4ac128a1f6e8b2ef316b57c54840368bd0b4a2d15f8e66ac12d49ee9752fecac",
+        "blindingProofResponseSBlinding": "4f007cf0291f50a815e2b92d4f1762f333a312a606f2dcf5a06100c2720c0e41"
+      },
+      {
+        "shuffledRankOrderCommitment": "7a3ace2ccb22c4a1bfa5029fcba0f988f466ea72d258f14e08443fb36dde61aa",
+        "blindingProofChallenge": "1fde24f0f629d79ec05fa132247e4f1dc6790b82fbc89cd4c783642889ed348f",
+        "blindingProofResponseSValue": "39a2f20ca13068ac7e451cdd6e8513879d37426d1046e69d6cced834b6feef54",
+        "blindingProofResponseSBlinding": "0f79ab4bfa9585936faa2972797192085d4c6f8dbda2e6d82130fe0a42d52feb"
+      },
+      {
+        "shuffledRankOrderCommitment": "d4e091d84e6d6eea84c1673cb292cd5a6d51ac4100de8bd0d0887c4c42aab3a7",
+        "blindingProofChallenge": "341bdb36bf1a085d49ec70e13ed6acc655814db6d2b92faa6ab8cb6633599f37",
+        "blindingProofResponseSValue": "0acf3c1f6bb2d151d3a9b0ab42165772b61d1a63c4cf410383e178adf23cb91b",
+        "blindingProofResponseSBlinding": "204ddeb15de762196994d51b80f3129af4c745b45e28f567d6c60bd21035df5c"
+      },
+      {
+        "shuffledRankOrderCommitment": "6a0a6486754029b0d7ee7020033fa02bc2a87cbf54b1d414f42711c12cd58539",
+        "blindingProofChallenge": "41bb4bb874af62371cf0fce1b045d9714daadee3454332b0c396b07919b03418",
+        "blindingProofResponseSValue": "12205ed3ff001155cbf2078382c0d0bbc8d0aea88b59f8c18c144009bfbfaa13",
+        "blindingProofResponseSBlinding": "4d28034145fd85ac25936b0482cad0d0bc0177cda798202b70bf1d56710d8ed3"
+      },
+      {
+        "shuffledRankOrderCommitment": "6cf1ac2cb374717cc9ebe05d925c2fb1d990a563f4cc0c28c98f010522a1b7ea",
+        "blindingProofChallenge": "1167f8fd5439e2d6994490de149be34a35af1b1657587b13f7e750489828ee5b",
+        "blindingProofResponseSValue": "2d85dae8c3aea595554aaac82258ceffe022b21557f95688448bd6cf020bfa8e",
+        "blindingProofResponseSBlinding": "49c052b40d8979a5758575067c0e0d5476a7ca90ff3f453b70e4e255dd73f805"
+      },
+      {
+        "shuffledRankOrderCommitment": "f17687b42bf8b047946b5d5d76638aae3578313df109388cee448b15736d2670",
+        "blindingProofChallenge": "377e2b7ca990bae52cafffbdca581e7eb3f5eab2691e1a30603fec54ce72f29c",
+        "blindingProofResponseSValue": "0324fb1887219cb40a091d7c2829dc3a8fdce9f2031a76d16cd2464b11cccd00",
+        "blindingProofResponseSBlinding": "73bc4988ffd514979338ee2f389c27e85a946a2257e35c294df425d4b5ddb01a"
+      },
+      {
+        "shuffledRankOrderCommitment": "f827826b1fd2fe8549d8327da1fbad7192aa5955c45248cc3bbbf195b514d2a9",
+        "blindingProofChallenge": "2dd60d1742ad0b8b62ed61a6c0a46b452cf0b568af2d88822d76e5fa11de649c",
+        "blindingProofResponseSValue": "2bd93378882e09fdebb295f05debb224133e0ddca4bb6031cd7b4b76c7eaae8b",
+        "blindingProofResponseSBlinding": "32d0d1ce8b5348fcaf3bc47e05cacdc337df8792fa5377b0016d98b9c36878fd"
+      },
+      {
+        "shuffledRankOrderCommitment": "a9acfe780046e9f68e15c55fdb3575d61f500982002642bcdffc848663d662d0",
+        "blindingProofChallenge": "59badf453d1cfed72f942f4fa0441c12765a35e85469e9d0054cb8ce325e51ce",
+        "blindingProofResponseSValue": "52fd51ebe1cf351a1b0029db4973b9fbdcdde2c70f56a6012ffca08e78c26d37",
+        "blindingProofResponseSBlinding": "3f0eda82f114c10fcfdacb8be3c7cd19ba850eed399a2ba3af3f06b573156e65"
+      }
+    ],
+    "permutationTranscriptHash": "a0d14f57f2347732e6477b77f77a32b9fd5a2841eaeaf17e6229d6ca9d5fd923"
+  },
+  "dealtPositions": [
+    {
+      "shuffledPosition": 0,
+      "initialEnvelopeIndex": 44,
+      "stage": "SHOWDOWN",
+      "seatIndex": 0,
+      "playerId": "0xAlice_Seat0",
+      "status": "OPENED_PUBLIC",
+      "opening": {
+        "shuffledPosition": 0,
+        "initialEnvelopeIndex": 44,
+        "cardIndex": 9,
+        "cardCode": "Jc",
+        "card": {
+          "suit": "c",
+          "rank": "J",
+          "code": "Jc",
+          "suitDisplay": "♣",
+          "rankDisplay": "J"
+        },
+        "saltHex": "191bc30a6e7f026eef913aa1a934074d9b4301d45d959763971335b7e0413c66",
+        "commitment": "5073f02d7d95d5d9eb7df6b4329320c235e9934ab0bc7d45c397146cd233a57f",
+        "zkCommitment": "b174622d4bd8ca5acb5e0af420fa9e66e4a116d55db5a961141d2fc420a28265",
+        "merkleProof": [
+          "14b8f90091a0c90d6ddfd779f55ab14d20ddce59a8e25a0b994b4513aa810d15",
+          "cb8fc336732e1a5ce001441c148ef609c97594f7cc237cb0f1e71b602569bd87",
+          "ce50c8f029fc1b35df8da6ba91cacc999b12ce6abf598c81e71bda4aa8c12ed0",
+          "639987a5662f189da4c4082252585b2531bc597813974134b150cf2624ac55ec",
+          "71f1f8043cea6a2fe401684a01a02288ba56dc674a766ba28404bba0308dcf56",
+          "5538c9e0b637d0bf8ba6b2f63891f8884374958ddd02e2005088c3692c0df358"
+        ],
+        "recipient": "public",
+        "stage": "SHOWDOWN",
+        "seatIndex": 0
+      }
+    },
+    {
+      "shuffledPosition": 1,
+      "initialEnvelopeIndex": 37,
+      "stage": "SHOWDOWN",
+      "seatIndex": 1,
+      "playerId": "0xBob_Seat1",
+      "status": "OPENED_PUBLIC",
+      "opening": {
+        "shuffledPosition": 1,
+        "initialEnvelopeIndex": 37,
+        "cardIndex": 4,
+        "cardCode": "6c",
+        "card": {
+          "suit": "c",
+          "rank": "6",
+          "code": "6c",
+          "suitDisplay": "♣",
+          "rankDisplay": "6"
+        },
+        "saltHex": "61b805e4b48f0cc853873842ea513771395770b0722fcc9165fed8673737f856",
+        "commitment": "329397f347af6f2a2a89378211f0665d9829a515e72f15515ccb2c555e685533",
+        "zkCommitment": "7b1668842ac83926b30debe04a9616f8cb3930eb87588aed36791f8f2cb79eec",
+        "merkleProof": [
+          "71e8ff99546b7d87914aa4148ce6115a23b281a14173642781a0b2be140b0bb6",
+          "8d56cd68eef9831f19c41cb5e3c01cf78eea5984696c711a71967459939dec7b",
+          "e6e24fe5b5966ff5e3b9d6be24ebe1760a73f89af2e497425958a79e3d541b91",
+          "c0444c8972c2a9118c91432af970d28f54f1821dd9f256dce99ed56514c50a04",
+          "71f1f8043cea6a2fe401684a01a02288ba56dc674a766ba28404bba0308dcf56",
+          "5538c9e0b637d0bf8ba6b2f63891f8884374958ddd02e2005088c3692c0df358"
+        ],
+        "recipient": "public",
+        "stage": "SHOWDOWN",
+        "seatIndex": 1
+      }
+    },
+    {
+      "shuffledPosition": 2,
+      "initialEnvelopeIndex": 46,
+      "stage": "HOLE_CARD",
+      "seatIndex": 2,
+      "playerId": "0xCarol_Seat2",
+      "status": "MUCKED_SECRET",
+      "opening": null
+    },
+    {
+      "shuffledPosition": 3,
+      "initialEnvelopeIndex": 5,
+      "stage": "SHOWDOWN",
+      "seatIndex": 0,
+      "playerId": "0xAlice_Seat0",
+      "status": "OPENED_PUBLIC",
+      "opening": {
+        "shuffledPosition": 3,
+        "initialEnvelopeIndex": 5,
+        "cardIndex": 15,
+        "cardCode": "4d",
+        "card": {
+          "suit": "d",
+          "rank": "4",
+          "code": "4d",
+          "suitDisplay": "♦",
+          "rankDisplay": "4"
+        },
+        "saltHex": "e6edcc6165c503217de3fac0abe0996d0958f7a47c9ce060d0eb71901fe4b67c",
+        "commitment": "1b5a746ded16ecc143ab04bb8c9ba88a5e6e0daea01c8773dc04891baa04a745",
+        "zkCommitment": "da53a86d8ec4401d0552f25e57515baeb1e8e11e4e1bbe58e252b92c61d0d4be",
+        "merkleProof": [
+          "005cfe5ae489ad36b431b6c1bb71b8dbb35a35b272a81646af99f13320904b22",
+          "e23089e767cf80355de415541fc26a9cb941579b9607fc3eaba82afeabf3966f",
+          "18a95321b0a485d12622b26f290f34f534b3304ccb2c15a6687446523d3a1063",
+          "44b8291b2a4ec924eceb607cc555a727f56bb0e940d5d6b1904f7cbc60c22700",
+          "1e612644a0b26149ffa4dac95143ee24c7778175476637852a2d4bd945621fee",
+          "740612b13237360754f439e631b4f45cc4538f9d39cb47d7e3e33ffbd8b6df1c"
+        ],
+        "recipient": "public",
+        "stage": "SHOWDOWN",
+        "seatIndex": 0
+      }
+    },
+    {
+      "shuffledPosition": 4,
+      "initialEnvelopeIndex": 14,
+      "stage": "SHOWDOWN",
+      "seatIndex": 1,
+      "playerId": "0xBob_Seat1",
+      "status": "OPENED_PUBLIC",
+      "opening": {
+        "shuffledPosition": 4,
+        "initialEnvelopeIndex": 14,
+        "cardIndex": 44,
+        "cardCode": "7s",
+        "card": {
+          "suit": "s",
+          "rank": "7",
+          "code": "7s",
+          "suitDisplay": "♠",
+          "rankDisplay": "7"
+        },
+        "saltHex": "0b25ed3e50cec23ba379ac7f1a50614b28ad044843f742d43fed971c2f7ed459",
+        "commitment": "45bd8de976456feb92871af8d1890d9a06c4dfba4fba40d05dce8c159b854554",
+        "zkCommitment": "33864e0bf67418e1f5e69a8817e6762ee1e52d63fb0b532dc6c3bc058b2aa006",
+        "merkleProof": [
+          "ffeda8bb6162d5035b9b0688d1154951a10e58d26ca083fa13904e0070905807",
+          "baaba771fae7bce014f23d6969e75e632f3c2b49413e2edfba65725435ea8032",
+          "3e9e09a05658b43fb4eb669e22c81b2858d63fbbd26f03b318de1c1b1a0b43cd",
+          "488126edb5360784720b4dd7ba447dd2aa66ed07b45486002c5c012a3b173615",
+          "1e612644a0b26149ffa4dac95143ee24c7778175476637852a2d4bd945621fee",
+          "740612b13237360754f439e631b4f45cc4538f9d39cb47d7e3e33ffbd8b6df1c"
+        ],
+        "recipient": "public",
+        "stage": "SHOWDOWN",
+        "seatIndex": 1
+      }
+    },
+    {
+      "shuffledPosition": 5,
+      "initialEnvelopeIndex": 21,
+      "stage": "HOLE_CARD",
+      "seatIndex": 2,
+      "playerId": "0xCarol_Seat2",
+      "status": "MUCKED_SECRET",
+      "opening": null
+    },
+    {
+      "shuffledPosition": 6,
+      "initialEnvelopeIndex": 47,
+      "stage": "BURN",
+      "status": "UNDEALT_SECRET",
+      "opening": null
+    },
+    {
+      "shuffledPosition": 7,
+      "initialEnvelopeIndex": 48,
+      "stage": "FLOP",
+      "status": "OPENED_PUBLIC",
+      "opening": {
+        "shuffledPosition": 7,
+        "initialEnvelopeIndex": 48,
+        "cardIndex": 7,
+        "cardCode": "9c",
+        "card": {
+          "suit": "c",
+          "rank": "9",
+          "code": "9c",
+          "suitDisplay": "♣",
+          "rankDisplay": "9"
+        },
+        "saltHex": "6d6c4f785aae9e574eb338357dc4d81cbda0de294daad10023a6c1ce4956febb",
+        "commitment": "c19b44991ccdc2e07ae10b9aafb8166493ee070678792b9812fd188dc3b12771",
+        "zkCommitment": "02048856a42e7b52e11eea945bb556a10dc4b3105bcd084a1bec38081cc68fe9",
+        "merkleProof": [
+          "ce300a86fb7fb42fa5982d26007bf847ff17f5f5ab2b3de36eceb2b33cc93d14",
+          "dc13a52b7b62ef1abca3eb4799653adb6101574078c22e7ba2fce8394b106935",
+          "e218c1b60833a21ae1e8dc3f8688d9617548447d2e2d1213f6394248eac334ec",
+          "c5673a42a46af0ed65acb84327eaeed71d5e0d6e692de995eb12efd46fcdab6e",
+          "cd8613a4e445cfe05ded050d89b3fb69f06e4e59edbd195a99093821d4e9f7c2",
+          "5538c9e0b637d0bf8ba6b2f63891f8884374958ddd02e2005088c3692c0df358"
+        ],
+        "recipient": "public",
+        "stage": "FLOP"
+      }
+    },
+    {
+      "shuffledPosition": 8,
+      "initialEnvelopeIndex": 33,
+      "stage": "FLOP",
+      "status": "OPENED_PUBLIC",
+      "opening": {
+        "shuffledPosition": 8,
+        "initialEnvelopeIndex": 33,
+        "cardIndex": 23,
+        "cardCode": "Qd",
+        "card": {
+          "suit": "d",
+          "rank": "Q",
+          "code": "Qd",
+          "suitDisplay": "♦",
+          "rankDisplay": "Q"
+        },
+        "saltHex": "873e548f6a6a71ba109997af6b2155ece9cfeee02ae7af6abec33865ccbb131d",
+        "commitment": "6f21ab3bbb2ba46f76b2cfc30ca2e37b1102a533f5be8a570033c2e1888690b1",
+        "zkCommitment": "657b6709d6e0fcebfdcae8b07e382dc51203cf16d04c682d9835ee55980ab950",
+        "merkleProof": [
+          "4960c81584e951910169d92c029272c5c028941b2f41791a9510c8f1246f492b",
+          "c404ec27f38414341fdc3e6ebd1fa49ad73e2966236aae03a18958392ba5d725",
+          "49c15116cb331c529094b768dfbb35f295e706a9f3c4742ebc2af382fd8aae92",
+          "c0444c8972c2a9118c91432af970d28f54f1821dd9f256dce99ed56514c50a04",
+          "71f1f8043cea6a2fe401684a01a02288ba56dc674a766ba28404bba0308dcf56",
+          "5538c9e0b637d0bf8ba6b2f63891f8884374958ddd02e2005088c3692c0df358"
+        ],
+        "recipient": "public",
+        "stage": "FLOP"
+      }
+    },
+    {
+      "shuffledPosition": 9,
+      "initialEnvelopeIndex": 51,
+      "stage": "FLOP",
+      "status": "OPENED_PUBLIC",
+      "opening": {
+        "shuffledPosition": 9,
+        "initialEnvelopeIndex": 51,
+        "cardIndex": 8,
+        "cardCode": "Tc",
+        "card": {
+          "suit": "c",
+          "rank": "T",
+          "code": "Tc",
+          "suitDisplay": "♣",
+          "rankDisplay": "10"
+        },
+        "saltHex": "7e0dfbeb30ab5ce116348608c617d0d4d8f85a76879f36521992538d945db0ac",
+        "commitment": "32cab4214abf0d9765a0d2b0a21c1dfd20be791190c643b0a1cd1430d1091b92",
+        "zkCommitment": "d21b7c5b6c2a5b3c0d008edad27a11376246b7c6528bdc0b39d16fc201a22b26",
+        "merkleProof": [
+          "5df719d57bfbd9bf733dc657e0561d56486816d0967df6e7218988ab9ec89086",
+          "ae64a42d0efa157927ac39c79fb4f7b92192a788d4a9b208792baf173742ae46",
+          "e218c1b60833a21ae1e8dc3f8688d9617548447d2e2d1213f6394248eac334ec",
+          "c5673a42a46af0ed65acb84327eaeed71d5e0d6e692de995eb12efd46fcdab6e",
+          "cd8613a4e445cfe05ded050d89b3fb69f06e4e59edbd195a99093821d4e9f7c2",
+          "5538c9e0b637d0bf8ba6b2f63891f8884374958ddd02e2005088c3692c0df358"
+        ],
+        "recipient": "public",
+        "stage": "FLOP"
+      }
+    },
+    {
+      "shuffledPosition": 10,
+      "initialEnvelopeIndex": 40,
+      "stage": "BURN",
+      "status": "UNDEALT_SECRET",
+      "opening": null
+    },
+    {
+      "shuffledPosition": 11,
+      "initialEnvelopeIndex": 35,
+      "stage": "TURN",
+      "status": "OPENED_PUBLIC",
+      "opening": {
+        "shuffledPosition": 11,
+        "initialEnvelopeIndex": 35,
+        "cardIndex": 19,
+        "cardCode": "8d",
+        "card": {
+          "suit": "d",
+          "rank": "8",
+          "code": "8d",
+          "suitDisplay": "♦",
+          "rankDisplay": "8"
+        },
+        "saltHex": "00515b7b504c7092b09d90ebfee1db85cadac5466a4f7189ce591c601f2bf7eb",
+        "commitment": "9aab08988d4cf84e30458c4b7e83ae60ef0b65abe2242863508dd78dd43dbba4",
+        "zkCommitment": "e85148ce2c3c522f6de6f96f6b06978d2f5f871ba8dfe74ebcf40eb66db9481c",
+        "merkleProof": [
+          "db74cb24195310955d541eb8718d50085d5136285f0a5ffea21c04a47ec9a2ee",
+          "912c1a95efce1eeb5a805305dcc784508a6ccb2d97d42e45519957e59c0159a8",
+          "49c15116cb331c529094b768dfbb35f295e706a9f3c4742ebc2af382fd8aae92",
+          "c0444c8972c2a9118c91432af970d28f54f1821dd9f256dce99ed56514c50a04",
+          "71f1f8043cea6a2fe401684a01a02288ba56dc674a766ba28404bba0308dcf56",
+          "5538c9e0b637d0bf8ba6b2f63891f8884374958ddd02e2005088c3692c0df358"
+        ],
+        "recipient": "public",
+        "stage": "TURN"
+      }
+    },
+    {
+      "shuffledPosition": 12,
+      "initialEnvelopeIndex": 8,
+      "stage": "BURN",
+      "status": "UNDEALT_SECRET",
+      "opening": null
+    },
+    {
+      "shuffledPosition": 13,
+      "initialEnvelopeIndex": 45,
+      "stage": "RIVER",
+      "status": "OPENED_PUBLIC",
+      "opening": {
+        "shuffledPosition": 13,
+        "initialEnvelopeIndex": 45,
+        "cardIndex": 37,
+        "cardCode": "Kh",
+        "card": {
+          "suit": "h",
+          "rank": "K",
+          "code": "Kh",
+          "suitDisplay": "♥",
+          "rankDisplay": "K"
+        },
+        "saltHex": "07cdf206175fbb61ee32a109516e72244dfe82ac9fcb6a9a3e373b6909e7542f",
+        "commitment": "f3bb2818fdee3bcd3288e802e05e3bed625f04495824989a4086e78e4ad22540",
+        "zkCommitment": "93b2bdc634f5c6fa0e438fb258dcd83f1065249ba8870b1f520e1c353ef70251",
+        "merkleProof": [
+          "dc5f9d05da24ad1705c2749f0ec52c80b106e06496601dc8eb358b6589f90ff7",
+          "cb8fc336732e1a5ce001441c148ef609c97594f7cc237cb0f1e71b602569bd87",
+          "ce50c8f029fc1b35df8da6ba91cacc999b12ce6abf598c81e71bda4aa8c12ed0",
+          "639987a5662f189da4c4082252585b2531bc597813974134b150cf2624ac55ec",
+          "71f1f8043cea6a2fe401684a01a02288ba56dc674a766ba28404bba0308dcf56",
+          "5538c9e0b637d0bf8ba6b2f63891f8884374958ddd02e2005088c3692c0df358"
+        ],
+        "recipient": "public",
+        "stage": "RIVER"
+      }
+    }
+  ]
+}

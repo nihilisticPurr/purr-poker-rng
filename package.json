@@ -1,0 +1,52 @@
+{
+  "name": "@purr-poker/rng",
+  "version": "1.0.0",
+  "description": "PurrPoker Provably Fair & Zero-Knowledge Verifiable Shuffle Protocol (SHAKE256/HKDF Commit-Reveal, Unbiased Fisher-Yates, Selective Card Openings, and ZK Deck Validity Proofs)",
+  "keywords": [
+    "poker",
+    "provably-fair",
+    "rng",
+    "zero-knowledge",
+    "zk-snark",
+    "groth16",
+    "mental-poker",
+    "fisher-yates",
+    "commit-reveal",
+    "purrpoker"
+  ],
+  "homepage": "https://github.com/Purr-Poker/purr-poker-rng#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Purr-Poker/purr-poker-rng.git"
+  },
+  "license": "MIT",
+  "author": "PurrPoker Engineering",
+  "type": "module",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "bin": {
+    "purr-poker-rng": "./dist/cli/verify.js"
+  },
+  "files": [
+    "dist",
+    "circuits",
+    "web",
+    "README.md"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "test": "node --experimental-strip-types --test test/*.test.ts",
+    "verify:demo": "node --experimental-strip-types src/cli/verify.ts --demo",
+    "verify": "node --experimental-strip-types src/cli/verify.ts"
+  },
+  "engines": {
+    "node": ">=20.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "typescript": "^5.6.0"
+  },
+  "optionalDependencies": {
+    "snarkjs": "^0.7.4"
+  }
+}
